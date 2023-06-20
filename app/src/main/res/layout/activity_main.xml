@@ -13,7 +13,7 @@
         android:layout_width="287dp"
         android:layout_height="49dp"
         android:layout_marginTop="656dp"
-        android:background="@drawable/border_radius"
+
         android:text="Masuk Akun"
         app:backgroundTint="#2b7a0b"
         app:layout_constraintEnd_toEndOf="parent"
@@ -25,7 +25,7 @@
         android:layout_width="287dp"
         android:layout_height="49dp"
         android:layout_marginTop="20dp"
-        android:background="@drawable/border_radius"
+
         android:text="Daftar Akun"
         android:textColor="#2B7A0B"
         app:backgroundTint="#ffff"

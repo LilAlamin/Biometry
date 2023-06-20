@@ -93,7 +93,7 @@
         android:layout_below="@+id/passwordChek"
         android:layout_alignStart="@+id/password"
         android:layout_marginTop="25dp"
-        android:hint="Masuk"
+        android:text="Daftar"
         android:backgroundTint="#2B7A0B"
         android:padding="10dp"
         android:textColorHint="#fff"
